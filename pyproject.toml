@@ -1,0 +1,11 @@
+[project]
+name = "rtt-assignments"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "colorama>=0.4.6",
+    "pydantic>=2.12.5",
+    "tqdm>=4.67.3",
+]
